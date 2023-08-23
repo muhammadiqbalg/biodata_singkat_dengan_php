@@ -38,13 +38,6 @@
     <div class="biodata">
         <h1>Biodata Singkat</h1>
 
-        <?php 
-            $foto_profil = "media/Foto-profil-new.png/";
-
-            echo '<img src="'. $foto_profil .'">';
-        ?>
-        
-
         <table>
         
         <?php 
